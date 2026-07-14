@@ -5,9 +5,9 @@ from os import environ
 
 API_ID = int(environ.get("API_ID", "20114039"))
 API_HASH = environ.get("API_HASH", "87297b8f3cc8fc9bbce591ad30da5896")
-BOT_TOKEN = environ.get("BOT_TOKEN", "8641914988:AAH67hNd6yT-X7C08mlwHjp0Ynm5FsvDHoU")
+BOT_TOKEN = environ.get("BOT_TOKEN", "8985432290:AAEkJ4cAb0-9pA_aQn4My2Po8qCWtZiym_w")
 
-OWNER = int(environ.get("OWNER", "8267173932"))
+OWNER = int(environ.get("OWNER", "8729256824"))
 CREDIT = environ.get("CREDIT", "𝘽𝙃𝙐𝙈𝙄𝙃𝘼𝙍")
 cookies_file_path = os.getenv("cookies_file_path", "youtube_cookies.txt")
 
